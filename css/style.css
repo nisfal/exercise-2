@@ -1,0 +1,19 @@
+.data{
+  width: 88px ;
+}
+.btn {
+    width: 40px;
+    height: 40px;
+    margin: 5px 5px 5px 0;
+    line-height: 38px;
+    font-size: 18px;
+    padding: 0;
+}
+
+.btn-wide {
+    width: 89.5px; 
+}
+.btn-tall {
+    width: 88px;
+}
+    
